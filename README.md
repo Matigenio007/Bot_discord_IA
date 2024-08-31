@@ -1,6 +1,6 @@
 🚀Este es el bot que añade la IA a favor🚀
 
-El futuro ha llegado, prueba este bot que puede detetar felinos grandes entre
+El futuro ha llegado, prueba este bot que puede detetar felinos grandes entre:
 - león
 - tigre
 - jaguar
