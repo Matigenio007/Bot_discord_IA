@@ -1,0 +1,4 @@
+0 león
+1 chita
+2 jaguar
+3 tigre
